@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋  Dear Guest</h1>
+<h1 align="left">Hello   Dear Guest</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about Tech and AI<br>📚 I'm currently a High School Junior<br>🎯 Goals: Develop My Business : @connectedqa<br>🎲 Fun fact: I Bench 125 Ibs</p>
+<p align="left"> Passionate about Tech and AI<br> I'm currently a High School Junior<br> Goals: Develop My Business : @connectedqa<br> Fun fact: I Bench 125 Ibs</p>
 
 ###
 
